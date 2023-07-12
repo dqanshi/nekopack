@@ -11,6 +11,18 @@ Fork Deploy is highly recommended
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/CommonBot_For_All">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+
+
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
    - [@DeletedUser420](https://t.me/DeletedUser420)
