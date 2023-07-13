@@ -1,5 +1,5 @@
 aiohttp
-apscheduler==3.7.0
+apscheduler
 cinemagoer
 cloudscraper
 colour
